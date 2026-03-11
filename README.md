@@ -161,7 +161,7 @@ Example log:
 
 Running Locally
 1 Clone Repository
-git clone https://github.com/yourusername/monitoring-service.git
+git clone https://github.com/rayyandevops-coder/monitoring-service.git
 cd monitoring-service
 
 2 Install Dependencies
